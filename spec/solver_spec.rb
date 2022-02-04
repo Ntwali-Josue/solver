@@ -1,7 +1,3 @@
-# frozen_string_literal: true
-
-# rubocop:disable Metrics/BlockLength
-
 require './solver'
 
 describe Solver do
@@ -51,5 +47,3 @@ describe Solver do
     end
   end
 end
-
-# rubocop:enable Metrics/BlockLength

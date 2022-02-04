@@ -1,6 +1,3 @@
-# frozen_string_literal: true
-
-# class Solver
 class Solver
   def factorial(int)
     if int.negative?

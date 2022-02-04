@@ -18,7 +18,7 @@ You need to have a Ruby and RSpec installed in your local machine
 
 ### Setup
 
-To setup the OOP School Library project in your local, in the repo page: 
+To setup the Solver project in your local, in the repo page: 
 - click on code (dropdown list) > Download as ZIP. 
 - or open terminal of path you want to install project and run this command:
 `git clone git@github.com:Ntwali-Josue/solver.git`

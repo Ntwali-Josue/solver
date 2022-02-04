@@ -2,7 +2,7 @@
 
 # Ruby TDD: Solver 
 
-> Ruby app to track main operations in the library.
+> Ruby app to practice TDD.
 
 ## Built With
 
